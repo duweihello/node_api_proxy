@@ -1,0 +1,27 @@
+{
+  "name": "node_api_proxy",
+  "version": "0.1.0",
+  "description": "NodeJS API Proxy",
+  "main": "server.js",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duweihello/node_api_proxy.git"
+  },
+  "keywords": [
+    "api",
+    "proxy"
+  ],
+  "author": "Wei DU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duweihello/node_api_proxy/issues"
+  },
+  "homepage": "https://github.com/duweihello/node_api_proxy#readme"
+}
